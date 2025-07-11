@@ -1,0 +1,1 @@
+# django-reviews_11.07.2025
